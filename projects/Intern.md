@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Daniel-K-Inouye-International-Airport-Tower-only.jpg
 title: "Student Engineering Intern"
 date: 2023
 published: true
