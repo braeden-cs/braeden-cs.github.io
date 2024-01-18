@@ -2,7 +2,7 @@
   "basics": {
     "name": "Braeden Mendoza",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/braeden-cs.png",
     "email": "bkkmendo@hawaii.edu",
     "phone": "808-724-2383",
     "website": "https://braeden-cs.github.io",
@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "braeden-cs", "url": "http://github.com/braeden-cs" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/braeden-mendoza-306b992a9/" }
+      { "network": "linkedin", "username": "Braeden Mendoza", "url": "http://linkedin.com/in/braeden-mendoza-306b992a9/" }
     ]
   },
   "interests": [
