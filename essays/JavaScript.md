@@ -10,7 +10,7 @@ labels:
   - WOD
 ---
 
-<img width="500px" 
+<img width="400px" 
      class="rounded float-start pe-4" 
      src="../img/EzgdmaCQuT84bgDL4fhXZS-480-80.jpg" >
 
