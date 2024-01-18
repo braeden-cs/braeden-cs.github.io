@@ -10,6 +10,9 @@ labels:
   - WOD
 ---
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/EzgdmaCQuT84bgDL4fhXZS-480-80.jpg" >
 
 ## Learning JavaScript
   In a matter of a week, I had to learn the basics of JavaScript. This included foundations such as data types, loops, and objects. Using the free JavaScript course on FreeCodecamp, I would have to learn how to code in JavaScript. This course included 142 topics and problems. Taking on a challenge like learning another language in days was extremely intimidating. However, it was not as bad as I thought it would be.
