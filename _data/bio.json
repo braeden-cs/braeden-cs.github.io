@@ -37,18 +37,6 @@
   ],
   "work": [
     {
-      "company": "DOT Airports",
-      "position": "Student Engineering Intern",
-      "website": "https://hidot.hawaii.gov/airports/",
-      "startDate": "2023-09-05",
-      "endDate": "2023-12-31",
-      "summary": "Student Engineering Intern for the Department of Transportation Airports branch",
-      "highlights": [
-        "Review and approve change orders and payments for statewide airport projects",
-        "Create projects on our database system"
-      ]
-    },
-    {
       "company": "UH Manoa",
       "position": "Learning Assistant",
       "website": "https://manoa.hawaii.edu/learning-assistant-program/",
@@ -58,6 +46,18 @@
       "highlights": [
         "Answer student's questions during recitations",
         "Hold office hours to aid the student's learning"
+      ]
+    },
+    {
+      "company": "DOT Airports",
+      "position": "Student Engineering Intern",
+      "website": "https://hidot.hawaii.gov/airports/",
+      "startDate": "2023-09-05",
+      "endDate": "2023-12-31",
+      "summary": "Student Engineering Intern for the Department of Transportation Airports branch",
+      "highlights": [
+        "Review and approve change orders and payments for statewide airport projects",
+        "Create projects on our database system"
       ]
     }
   ],
