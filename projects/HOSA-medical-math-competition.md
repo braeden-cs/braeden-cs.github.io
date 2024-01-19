@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Daniel-K-Inouye-International-Airport-Tower.jpg
+image: img/Hosa_Logo.png
 title: "HOSA Medical Math Competition"
 date: 2021
 published: true
