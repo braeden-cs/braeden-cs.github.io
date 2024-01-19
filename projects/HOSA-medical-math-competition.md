@@ -2,7 +2,6 @@
 layout: project
 type: project
 image: <img width="200px" 
-     class="rounded float-start pe-4" 
      src="../img/Hosa_Logo.png" >
 title: "HOSA Medical Math Competition"
 date: 2021
