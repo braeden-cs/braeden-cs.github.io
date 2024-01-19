@@ -12,7 +12,7 @@ labels:
 
 <img width="400px" 
      class="rounded float-start pe-4" 
-     src="../img/EzgdmaCQuT84bgDL4fhXZS-480-80.jpg" >
+     src="../img/OIP.jpg" >
 
 ## Why Software Engineering?
  I was first introduced to the software engineering field through social media. Nowadays, with a technology and data-driven society, these types of careers are really common. I was initially drawn to the career because of the money. However, as I continued to take more computer science classes, I became interested in the field. I enjoyed the challenge that came with computer science. It was not something that came to me easily, so it required a lot of effort and time to develop my skills. From software engineering, I am intrigued by the aspect of people using and enjoying the applications that I create. If the applications that I program can help people solve problems or at least make technology easier and more accessible, then I think it would be a good reward for the time I put in to develop the necessary skills. Specifically, web development seems like something interesting and fun to do. However, I am open to the other aspects of software engineering.
