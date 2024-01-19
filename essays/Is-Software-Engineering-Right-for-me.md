@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "JavaScript: WOD the heck!"
+title: "Is Software Engineering Right for Me?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-16
 published: true
