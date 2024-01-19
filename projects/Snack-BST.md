@@ -10,7 +10,7 @@ labels:
   - Binary Search Trees
 summary: "Creating a Binary Search Tree of Snacks"
 ---
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/binary-tree-diagram-484863.webp">
 
 
 During my fall semester of my second year in my computer science degree, I was assigned to create a binary search tree with nodes that contained snack objects. These snack objects contained the price, calories, barcode, and name of the snack. All of this code would be done using Java. I would define functions in a seperate class to help create the binary search tree. An example of one of the functions is below: 
