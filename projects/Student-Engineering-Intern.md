@@ -10,7 +10,7 @@ labels:
   - Airports
 summary: "I worked as a student engineering intern at the DOT Airports during the Fall 2023 semester."
 ---
-<img class="img-fluid" src="../img/Hosa_Logo.png">
+<img class="img-fluid" src="../img/20190725_535627.jpg">
 
 
 During the fall semester of the 2023-2024 academic year, I worked as a student engineering intern for the Department of Transportation, Airports department. Through this position, I learned more about the daily processes and responsibilities of an engineer. The airports department worked on statewide airport projects which includes routine maintenance of the airports to more special projects. I worked directly with the engineers and secretaries to ensure that these projects would run smoothly.
