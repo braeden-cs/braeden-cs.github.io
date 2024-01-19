@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/binary-tree-diagram-484863.webp
+image: img/Evolution-Combo-SZ38-Vending-Machine-Snack-3.5-629x1024.png
 title: "Snack BST"
 date: 2023
 published: true
