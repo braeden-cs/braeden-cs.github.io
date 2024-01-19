@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Evolution-Combo-SZ38-Vending-Machine-Snack-3.5-629x1024.png
+image: img/binary-tree-diagram-484863.webp
 title: "Snack BST"
 date: 2023
 published: true
@@ -10,7 +10,7 @@ labels:
   - Binary Search Trees
 summary: "Creating a Binary Search Tree of Snacks"
 ---
-<img class="img-fluid" src="../img/binary-tree-diagram-484863.webp">
+<img class="img-fluid" src="../img/Evolution-Combo-SZ38-Vending-Machine-Snack-3.5-629x1024.png">
 
 
 During my fall semester of my second year in my computer science degree, I was assigned to create a binary search tree with nodes that contained snack objects. These snack objects contained the price, calories, barcode, and name of the snack. All of this code would be done using Java. I would define functions in a seperate class to help create the binary search tree. An example of one of the functions is below: 
