@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="200px" 
-     src="../img/Hosa_Logo.png" >
+image: img/Hosa_Logo.png" 
 title: "HOSA Medical Math Competition"
 date: 2021
 published: true
