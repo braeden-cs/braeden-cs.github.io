@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Daniel-K-Inouye-International-Airport-Tower.jpg
+image: img/Daniel-K-Inouye-International-Airport-Tower-copy.jpg
 title: "Student Engineering Intern"
 date: 2023
 published: true
