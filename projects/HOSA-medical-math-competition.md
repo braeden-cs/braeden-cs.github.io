@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/75-754468_hosa-emblem-2019-hd-png-download.png
+image: img/R.png
 title: "HOSA Medical Math Competition"
 date: 2021
 published: true
