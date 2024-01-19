@@ -6,8 +6,8 @@ title: "Is Software Engineering Right for Me?"
 date: 2024-01-16
 published: true
 labels:
-  - JavaScript
-  - WOD
+  - Software Engineering
+  - Computer Science
 ---
 
 <img width="400px" 
