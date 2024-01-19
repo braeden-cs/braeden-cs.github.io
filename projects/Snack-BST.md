@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/R.png
+image: img/binary-tree-diagram-484863.webp
 title: "Snack BST"
 date: 2023
 published: true
