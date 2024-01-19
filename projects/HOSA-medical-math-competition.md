@@ -7,17 +7,15 @@ date: 2021
 published: true
 labels:
   - HOSA
-  - Airports
-summary: "I worked as a student engineering intern at the DOT Airports during the Fall 2023 semester."
+  - Math
+summary: "I placed second in the state for the medical math HOSA competition"
 ---
 
 
 
-During the fall semester of the 2023-2024 academic year, I worked as a student engineering intern for the Department of Transportation, Airports department. Through this position, I learned more about the daily processes and responsibilities of an engineer. The airports department worked on statewide airport projects which includes routine maintenance of the airports to more special projects. I worked directly with the engineers and secretaries to ensure that these projects would run smoothly.
+In my spring semester of my junior year of highschool, I competed in a state-wide competition for the HOSA organization in the medical math event. In this event, I was primarily tested on medical terminology, dosages, and reading prescriptions out of the many other topics. Medical Math is typically a course that is taught by itself at universities which shows its importance in the medical field. I was tasked with learning the medical math material within two to three months. It was my first time competing in the event so I had no prior knowledge about the subject.
 
-In terms of my responsilities, I was in charge of ensuring that the change orders for the projects were reviewed and approved in a timely manner. This ensured that the airport projects could process and run as efficiently as possible. I also created projects on our system for the engineers to use so they can upload and access project documents. Minor responsibilities included scanning, uploading, and organizing documents. By the end of the job, I also helped in training the newer hires and answering questions that they may have about their responsibilities.
+I was entirely responsible with becoming proficient with medical math through a textbook. I dedicated one to two hours everyday prior to the competition going over the material. This was all occurring while I was taking some of the most difficult courses in my school at the time. I would also stay after school to work with my teacher on  medical math practice problems. For eaach unit that I would go through, I would take a practice quiz which incredibly boosted my understanding of the content.
 
-From this internship, I majorly learned how to work in a team. Since these were massive statewide airport projects, the projects would run through many departments. I had to be able to work with the other departments well and communicate effectively. Most of the communicating would be done through email, so being able to explain instructions well was required for the job. I also improved in being a self-directed learner. The office environment was always fast-paced as we would be working on various projects at once so taking the initiative to ask questions on anything that I was confused about was really beneficial. Overall, I was able to experience what it was like to work in a fast-paced team-focused professional environment.
-
-
+From my experience competing in this event, I have improved my work-ethic and motivation to learn. All of this occurred during COVID-19 where education and the motivation to learn was at an all-time low. Finding the time and conjuring up the effort to self-study a whole new subject was extremely challenging, however, I enjoyed my time doing so. I also learned how to collaborate with teachers and those in higher authority. Without the help and encouragement of my teacher, I most likely would not have been able to do as well as I did.
 
