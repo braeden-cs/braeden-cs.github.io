@@ -11,7 +11,7 @@ labels:
 summary: "I placed second in the state for the medical math HOSA competition"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/Hosa_Logo.png">
 
 In my spring semester of my junior year of highschool, I competed in a state-wide competition for the HOSA organization in the medical math event. In this event, I was primarily tested on medical terminology, dosages, and reading prescriptions out of the many other topics. Medical Math is typically a course that is taught by itself at universities which shows its importance in the medical field. I was tasked with learning the medical math material within two to three months. It was my first time competing in the event so I had no prior knowledge about the subject.
 
