@@ -8,6 +8,7 @@ published: true
 labels:
   - Smart Questions
 ---
+<img class="img-fluid" src="../img/9c8cc10b1e5e377af3f4387f802179bb.jpg">
 ## Do Dumb Questions Exist?
   What if I were to tell you that there is such a thing as a dumb question? For many of us, we have been told since childhood that all questions are good questions. I wouldn’t necessarily say that there are dumb questions, rather, there are bad questions that not only make it incredibly difficult to answer but also discourage others from answering the question. I am sure that we have all asked a bad question that left the answerer confused or questioning whether we paid attention or not. This leaves your reputation in danger and your misapprehension still unsolved. For this reason, it is important to know how to cultivate a smart question.
   
