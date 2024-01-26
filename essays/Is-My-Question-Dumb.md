@@ -55,4 +55,4 @@ labels:
 ## Reasoning for smart questions
   This is in no way to falter or prevent anyone from asking questions for the fear that they may seem dumb or that their question is stupid. Questions out of general curiosity are encouraged. However, for questions regarding topics that you should already have an interest in or knowledge about, these kinds of ‘stupid’ questions appear to be searching for the answers rather than the logic behind them. It would just be a cheap way into an already highly sought-after industry. Knowing how to differentiate between what is considered a smart question and a bad question is beneficial in the long run. It ensures that if you were to ever ask a question, it can be answered.
 
-Here is a link to [StackOverflow](https://stackoverflow.com/questions/43871637/no-access-control-allow-origin-header-is-present-on-the-requested-resource-whe/43881141#43881141).
+Here is a link to [StackOverflow Smart Question Example](https://stackoverflow.com/questions/43871637/no-access-control-allow-origin-header-is-present-on-the-requested-resource-whe/43881141#43881141).
