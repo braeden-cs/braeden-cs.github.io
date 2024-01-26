@@ -10,11 +10,12 @@ labels:
 ---
 
   What if I were to tell you that there is such a thing as a dumb question? For many of us, we have been told since childhood that all questions are good questions. I wouldn’t necessarily say that there are dumb questions, rather, there are bad questions that not only make it incredibly difficult to answer but also discourage others from answering the question. I am sure that we have all asked a bad question that left the answerer confused or questioning whether we paid attention or not. This leaves your reputation in danger and your misapprehension still unsolved. For this reason, it is important to know how to cultivate a smart question.
+  ## What is a bad question?
   A good way to introduce what qualifies as a good question is to first define what a bad question is.
   <img width="400px" 
-     class="rounded float-start pe-4" 
+     class="rounded mx-auto d-block" 
      src="../img/Screenshot 2024-01-25 171145.png" >
-## What is a bad question?
+### How to notice a bad question
   This question was posted on stack overflow which is what many developers use when they have a programming question. It was found in the ‘ recently asked questions’ section and I found it minutes after it was posted. In those few minutes, Stack Overflow was very quick in taking it down. Unfortunately, Stack Overflow took it down so quickly that the question is no longer viewable. Stack Overflow deems this as a bad question so let’s analyze what exactly is bad about it.
    To start, the header does not aid in explaining what the question is about or what the author may need help with. It is more of a plea for help rather than an actual topic for a forum. The header is critical in these types of forums that load thousands of questions per day. It is the first introduction to your question as it is the only thing that the users see when scrolling through questions in stack overflow. For this reason, having a good header that indicates the topic you have a question about will help in gaining traction for your question which will give you a higher chance of your question being answered.
   There is also the issue of grammar in the question. In both the header and the body of the text, there are incorrectly spelled words and the overall tone does not seem to be the most professional. Some slack is given to those who are not proficient in English or where English is not their first language. However, you must mention this within the body of the text.
