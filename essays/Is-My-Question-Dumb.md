@@ -10,7 +10,7 @@ labels:
 ---
 
   What if I were to tell you that there is such a thing as a dumb question? For many of us, we have been told since childhood that all questions are good questions. I wouldn’t necessarily say that there are dumb questions, rather, there are bad questions that not only make it incredibly difficult to answer but also discourage others from answering the question. I am sure that we have all asked a bad question that left the answerer confused or questioning whether we paid attention or not. This leaves your reputation in danger and your misapprehension still unsolved. For this reason, it is important to know how to cultivate a smart question.
-  ## What is a bad question?
+## What is a bad question?
   A good way to introduce what qualifies as a good question is to first define what a bad question is.
   <img width="400px" 
      class="rounded mx-auto d-block" 
@@ -28,12 +28,12 @@ labels:
   Precision is also an important aspect of your question. You want to be able to give the answerer as much information and details as possible for them to better understand the problem you have encountered. The context of your problem, the preparation and research you did prior, and how you attempted to solve the problem are some essential contexts that you should include in a question. You must include the symptoms of the problem instead of what you think went wrong. Although it might seem helpful, providing what actually went wrong through context would be more beneficial than your interpretations.
   Overall, a smart question should be precise, showcase your knowledge and how prepared you are, and well as accessible to the answerer and viewers. You want to showcase how invested and interested you are in the problem. You should be able to show your motivation in learning rather than just your desperation for an answer. At the end of the day, the answers are donating their time to help you with a question. Ensure that their time is not wasted.
 <img width="400px" 
-     class="rounded float-start pe-4" 
+     class="rounded mx-auto d-block" 
      src="../img/Screenshot 2024-01-25 202430.png" >
 ## What should a smart question look like?
 This is one example of a smart question found on Stack Overflow. The heading gives a good introduction as to what the author’s problem is. They then give enough background information for the viewers to give a satisfactory response. They include information such as the language they are using, symptoms of the problem, a snippet of the problematic code, as well as the type of operating system they are using. The author was also able to show the effort that they put in by mentioning the different approaches they took. The only problem that could interfere with the answers is how broad the questions are. As a result, the answers to this question are ample but also address that it covers various topics.
 <img width="400px" 
-     class="rounded float-start pe-4" 
+     class="rounded mx-auto d-block" 
      src="../img/Screenshot 2024-01-25 203530.png" >
 ## Responses to a Smart question
 For example, the top-rated answer goes over various topics within the issues that they found within their problem. However, more than a thousand people found this answer to be extremely helpful. In this way, asking a smart question can lead to very helpful answers that guide you through the problem and help you understand the logic behind the answer. This is in comparison to the previous bad question, where there were no responses.
