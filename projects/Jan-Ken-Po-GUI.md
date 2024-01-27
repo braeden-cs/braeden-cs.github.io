@@ -10,7 +10,7 @@ labels:
   - GUI
 summary: "Creating a GUI for a User vs Computer Rock Paper Scissors game"
 ---
-<img class="img-fluid" src="../img/86d4e7adfc739942eb95f5b8feb7b6b7.png">
+<img class="img-fluid" src="../img/Screenshot 2024-01-26 143813.png">
 
 
 During my fall semester of my second year in my computer science degree, I was assigned to create a binary search tree with nodes that contained snack objects. These snack objects contained the price, calories, barcode, and name of the snack. All of this code would be done using Java. I would define functions in a seperate class to help create the binary search tree. An example of one of the functions is below: 
