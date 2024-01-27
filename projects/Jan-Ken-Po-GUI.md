@@ -13,52 +13,39 @@ summary: "Creating a GUI for a User vs Computer Rock Paper Scissors game"
 <img class="img-fluid" src="../img/Screenshot 2024-01-26 143813.png">
 
 
-During my fall semester of my second year in my computer science degree, I was assigned to create a binary search tree with nodes that contained snack objects. These snack objects contained the price, calories, barcode, and name of the snack. All of this code would be done using Java. I would define functions in a seperate class to help create the binary search tree. An example of one of the functions is below: 
+During my second semester in my computer science degree, I created a rock paper scissors game, or Jan Ken Po as we like to call it in Hawaii. The game would be a user vs computer type of game. All of this code would be done using Java. The main focus was to create a simple game that could be played through a graphical user interface. In this way, we would have to be able to program functional buttons as well as learn strategies to make out interface look 'good'.
+
+I first created the graphical user interface of the game which included the buttons and the text fields. Included in the GUI was an instruction, which when clicked, will show a seperate window that explained the logic of the game. The user could then choose their move to go against the computer. For the game to function, I assigned each move a number from 0 to 2. To program the ' vs computer ' aspect of the game, I would have the computer randomly generate a number between 0 and 2. Based on the logic of rock paper scissors, it would then determine the winner based on the randomly generated number from the commputer as well as the move chosen by the user. Each result of the round would then be recorded onto a seperate text file that the user could look at. One snippet of how I approached programming the logic of Jan Ken Po is:
 
 <hr>
 
 <pre>
-public boolean addNodes(SnackNode root, Snack sn){
-      // creates a new node containing a snack
-      SnackNode newNode = new SnackNode(sn);
-      // In the case that the snack already exists in the BST tree
-      if(sn.compareTo(root.getSnack()) == 0){
-         return false;
-      }
-      // In the case that the snack's barcode is greater than the parent's
-      else if(sn.compareTo(root.getSnack()) == 1){
-         // Once it finds an empty node given the conditions, the new node will take the empty spot
-         if (root.getRightChild() == null){
-            root.setRightChild(newNode);
-            return true;
-         }
-         // If the next node is not empty, it will continue to search for an empty node using recursion
-         else{
-            addNodes(root.getRightChild(), sn);
-            return true;
-         }
-      }
-      // In the case that the snack's barcode is less that the barcode of the snack in the node
-      else if(sn.compareTo(root.getSnack()) == -1){
-         // Once an empty node is found, the new node will take the empty spot
-         if (root.getLeftChild() == null){
-            root.setLeftChild(newNode);
-            return true;
-         }
-         // Recursively searches for an empty node following the conditions
-         else{
-            addNodes(root.getLeftChild(), sn);
-            return true;
-         }
-      }
-      return false;
-   
-   }
+         // In the case that the button bRock is clicked
+         // Defines the logic of the game
+         // Each move will be represented as a number 
+         // 0:Rock 1:Paper 2:Scissors
+         // If the user chose 0:Rock
+         if(e.getSource() == bRock){
+            // randomly generates a number between 0-2
+            Random r = new Random();
+            int computerChoice = r.nextInt(3);
+            // Determines what the computer chose and will declare the winner of the match 
+            // This is based on the rules of RPS which can be found on the internet
+            // In the case that the computer chose rock
+            if(computerChoice == 0){
+               // Displays the computers move and the results of the match
+               computerMove.setText(" ROCK ");
+               results.setText("IT IS A TIE");
+               // Increases the tie score by 1 and displays it in the according label
+               t++;
+               labelTie.setText(Integer.toString(t));
+               // Increases the amount of matches by 1
+               matches++;
+            }
+
 
 </pre>
 
 <hr>
 
-I was first responsible with creating the snack objects. Each of the snack object's parameters had to be validated in order for the snack to be created. I would also end up creating a snack exception in the case that an exception is thrown in the snack class. I was also responsible for creating the nodes containing the snacks. Finally, I had to link the nodes together based on the logic of a binary search tree. In this class, I would define how to add nodes and print the tree. Also, I would delete and find the snack nodes based on their barcodes. Finally, these functions would then be called in the driver class.
-
-From this assignment, I learned the basics of a binary search tree and how to apply this concept through code. It was my first time dealing with a binary search tree so there were many trials and tribulations with programming the Snack BST. It was also a project that we were slowly building upon throughout the semester. This project was so significant to me as it would teach me perserverance and determination despite being frustrated. There were many times where my code would not compile or simply not function correctly. In those instances, I would want to give up. However, I decided to push through the frustation. In the end, I was able to create a program that I was satisfied with.
+From this project, I learned the basics of what a graphical user interface was and how to apply this through code. It was my first time creating a graphical user interface so there were many trials and tribulations with programming the game. The experience was so fufilling as it would be my first time creating a program where I could physically see my functional product. Although it took a while, I really enjoyed the process and it helped me realize why I decided to major in computer science in the first place. This project was so significant to me as it would teach me perserverance and determination despite being frustrated. There were many times where my code would not compile or simply not function correctly. I especially struggled with making the GUI look as aesthetic as possible. There were so many things that I wanted to do with the interface, however, I lacked the skill. In those instances, I would want to give up. However, I decided to push through the frustation and become motivated to learn even more. In the end, I was able to create a program that I was proud of.
