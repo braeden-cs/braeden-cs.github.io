@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/binary-tree-diagram-484863.webp
-title: "Snack BST"
+image: img/rock_paper_scissors_logo.jpg
+title: "Jan Ken Po GUI"
 date: 2023
 published: true
 labels:
   - Java
-  - Binary Search Trees
-summary: "Creating a Binary Search Tree of Snacks"
+  - GUI
+summary: "Creating a GUI for a User vs Computer Rock Paper Scissors game"
 ---
 <img class="img-fluid" src="../img/86d4e7adfc739942eb95f5b8feb7b6b7.png">
 
