@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards: The Bane of my existence or Heaven-sent?"
+title: "Coding Standards: The Bane of My Existence or Heaven-Sent?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-07
 published: true
