@@ -19,6 +19,10 @@ Would you believe me if I said that coding standards saves my life everyday. Wel
 
 ### Commenting
 
+<img width="400px" 
+     class="rounded mx-auto d-block" 
+     src="../img/Single-LineComments.avif" >
+
 Coding standards serve for more than just the ‘aesthetics’ of a program. These standards can also aid in helping people understand your code. This can be done through commenting which explains what a block of code does. In my previous classes, my professors would heavily stress on commenting on the code you write. Often, the comments would take just as long as writing the code itself. Commenting seems really cumbersome but its benefits shine when you start to share code. Especially when you are searching for the code for a problem online, commenting will help you actually comprehend how and why the code works.
 Take the snippet of code above. On the left, there is commenting on some code. It identifies what the code is doing and explains the properties of the object. For anyone who has had some experience with coding, understanding this code is not difficult. However, for beginners having these comments are really helpful in understanding what the code is doing. If my professors did not properly comment on the example programs they wrote, I probably would have struggled a lot more with the assignments than I already was.
 
