@@ -15,6 +15,7 @@ labels:
 ## Why Coding Standards?
 
 ### The looks of coding
+
 Would you believe me if I said that coding standards saves my life everyday. Well not literally, but it feels like it does. Coding standards serve many purposes. One of which is displayed in the blocks of code above. On the left is the code without any coding standard being used. On the right is the same code with coding standards being implemented. Just from a first glance, it is obvious that the code with the coding standard is much easier to read as compared to the same code without the standards.
 
 ### Commenting
@@ -22,6 +23,7 @@ Would you believe me if I said that coding standards saves my life everyday. Wel
 <img class="img-fluid" src="../img/Single-LineComments.avif">
 
 Coding standards serve for more than just the ‘aesthetics’ of a program. These standards can also aid in helping people understand your code. This can be done through commenting which explains what a block of code does. In my previous classes, my professors would heavily stress on commenting on the code you write. Often, the comments would take just as long as writing the code itself. Commenting seems really cumbersome but its benefits shine when you start to share code. Especially when you are searching for the code for a problem online, commenting will help you actually comprehend how and why the code works.
+
 Take the snippet of code above. On the left, there is commenting on some code. It identifies what the code is doing and explains the properties of the object. For anyone who has had some experience with coding, understanding this code is not difficult. However, for beginners having these comments are really helpful in understanding what the code is doing. If my professors did not properly comment on the example programs they wrote, I probably would have struggled a lot more with the assignments than I already was.
 
 ## How coding standards save my life
@@ -46,7 +48,7 @@ function projectEulerOne() {
 console.log(projectEulerOne());
 ```
 
-This block of code won’t compile just because of a small typo in the variable ‘sum’. For most, they struggle to find these small mistakes. Now imagine having to find these same mistakes in thousands of lines of code. It will feel almost impossible to do or take hours out of your day that you could have spent on more important things. Going through a ridiculous amount of code to figure out why my code isn’t working is absolute torture. It is even more dreadful when you realize that it was because of a misspelling. This is where a standard checker comes in handy. It will help in ensuring that you are properly referencing variables and that your syntax is correct. Using a standard checker tool, I am able to save hours of my time that I would have otherwise wasted on trying to find those minute mistakes.
+This block of code won’t compile just because of a small typo in the variable ‘sum’. Even for a simple function like this, most struggle to find these small mistakes. Now imagine having to find these same mistakes in thousands of lines of code. It will feel almost impossible to do or take hours out of your day that you could have spent on more important things. Going through a ridiculous amount of code to figure out why my code isn’t working is absolute torture. It is even more dreadful when you realize that it was because of a misspelling. This is where a standard checker comes in handy. It will help in ensuring that you are properly referencing variables and that your syntax is correct. Using a standard checker tool, I am able to save hours of my time that I would have otherwise wasted on trying to find those minute mistakes.
 
 ## What I think of Coding Standards
 
