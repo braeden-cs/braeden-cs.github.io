@@ -8,7 +8,7 @@ published: true
 labels:
   - Coding Standards
 ---
-<img width="400px" 
+<img width="600px" 
      class="rounded mx-auto d-block" 
      src="../img/Screenshot 2024-02-08 022611.png" >
 
@@ -18,9 +18,9 @@ labels:
 
 Would you believe me if I said that coding standards saves my life everyday. Well not literally, but it feels like it does. Coding standards serve many purposes. One of which is displayed in the block of code above. In the code above, there is no coding standard being used. Anyone who wears glasses or has the slightest vision impairment would struggle to read this code. Even with my perfect vision, I find this block of code hard to read not only the characters, but also to understand how the function works. The lack of spaces and proper indents makes the code really cluttred and difficult to read. As a result, understanding how the code functions is that much more difficult to understand.
 
-<img width="400px" 
+<img width="600px" 
      class="rounded mx-auto d-block" 
-     src="../img/Screenshot 2024-02-08 022611.png" >
+     src="../img/Screenshot 2024-02-08 022128.png" >
 
 In contrast, above is the same block of code code with coding standards being implemented. Just from a first glance, it is obvious that the code with the coding standard is much easier to read as compared to the same code without the standards. If I were a teacher grading a coding assignment or an employer, I would much rather want to see the code that is standard compliant.
 
