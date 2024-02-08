@@ -19,7 +19,7 @@ Would you believe me if I said that coding standards saves my life everyday. Wel
 
 ### Commenting
 
-<img width="400px" 
+<img width="800px" 
      class="rounded mx-auto d-block" 
      src="../img/Single-LineComments.avif" >
 
