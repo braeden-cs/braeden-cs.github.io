@@ -36,13 +36,13 @@ function projectEulerOne() {
   for (let j = 0; j < arr.length; j++ ) {
     sum += arr[j];
   }
-  return sum;
+  return sun;
 }
 console.log(projectEulerOne());
 ```
 
 This block of code won’t compile just because of a small typo in the variable ‘sum’. For most, they struggle to find these small mistakes. Now imagine having to find these same mistakes in thousands of lines of code. It will feel almost impossible to do or take hours out of your day that you could have spent on more important things. Going through a ridiculous amount of code to figure out why my code isn’t working is absolute torture. It is even more dreadful when you realize that it was because of a misspelling. This is where a standard checker comes in handy. It will help in ensuring that you are properly referencing variables and that your syntax is correct. Using a standard checker tool, I am able to save hours of my time that I would have otherwise wasted on trying to find those minute mistakes.
 
-## What I think of Coding Standards
+##What I think of Coding Standards
 	Coding standards are often seen in a very negative, trivial light. Most of this roots from how much of a nuisance and unnecessary that it seems. A lot of people tend to complain about those small details like putting a newline at the end of your code or all of the spaces that you have to put in specific places.I do agree that not all of the aspects of coding standards are life or death for the functionality of your program. However, I do believe that the benefits of those details will come to show as you continue to create longer programs or write more code. The only major problem that I have is with implementing coding standards in a timed situation. Especially for assessments, I worry that I won’t be able to properly correct my code to comply with the coding standards in time.
 	Although learning and implementing coding standards may be irritating initially, the difficulty dwindles and the extra effort put in really starts to pay off. In the beginning, I didn’t enjoy using coding standards as it took so much time to do. However, now that I have had experience with it and am able to implement the standards much quicker, it has gotten easier. I would say that coding standards actually helps with the accessibility of the code. While I do not exactly enjoy the coding standards, I do understand and appreciate what it does for coding and the coding community.
