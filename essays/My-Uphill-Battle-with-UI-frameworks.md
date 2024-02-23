@@ -17,21 +17,20 @@ Recently, I have had my first introduction to HTML/CSS. So far, my experience ha
 
 I would say this is one of the better interfaces that I developed but it took me three dreadful hours making it. My main struggle was with overlapping the text on the images. I spent two of the three hours on w3schools.com trying to do this with no avail. In the end, I just settled for using a figure and figcaptions. Personally, it looks clean but it was definitely a struggle trying to get to the desired product.
 	
-## Is Learning a UI Framework even worth it?
-### Bootstrap5
-If it wasn’t bad enough, using a framework requires even more remembering of content. I just recently started learning about and implementing Bootstrap in my website development projects. Seriously, it is like trying to learn a foreign language. There were pages full of documentation, with words that made no sense to me. Everything that I was reading seemed like gibberish to me. Even after applying all of the classes from bootstrap, it still wasn’t doing what I wanted it to do. From my experience, it's obvious that I had and still have no idea what all of the classes do and how they function.
+## Bootstrap5
+To add to my struggle, using a framework requires even more remembering of content. I just recently started learning about and implementing Bootstrap to create user interfaces. Seriously, it is like trying to learn a foreign language. There were pages full of documentation, with words that made no sense to me. Everything that I was reading seemed like gibberish to me. Even after applying all of the classes from bootstrap, it still wasn’t doing what I wanted it to do. From my experience, it's obvious that I had and still have no idea what all of the classes do and how they function.
 ### The benefits of Bootstrap5
 The only thing that I like about Bootstrap is that it makes using HTML/CSS easier. The Bootstrap classes basically do the majority of the job for you. This is in comparison to using HTML/CSS where you have to write a ton of code just to get the same effect. Actually knowing what the bootstrap classes do is a struggle but once you get the hang of it, the process is much easier. I am not at this point in using UI frameworks yet, however, I understand that much just from my experience using bootstrap. For example,
 
 You can get so much more done and not to mention, it looks a lot better as compared to the previous interface. I was able to overlay the text on the images with relative ease. Seriously, the padding that comes with bootstrap containers as well as the gridlayout saves you so much time. Using a UI framework just feels so much more efficient as compared to the blood sweat and tears put into creating an interface with just raw HTML/CSS. 
 
-## Should you learn HTML/CSS and UI frameworks?
+## Are UI frameworks even worth learning?
 After all of the sleepless nights spent learning HTML/CSS and Bootstrap, I kept thinking to myself, “Why am I even learning this?” However, after a while of thinking and self-reflection, I have come to the conclusion that they are worth learning for a couple of reasons.
-### Reason 1
+### Reason 1: Discovery
 As with learning anything, it helps you discover what you are truly passionate about and interested in. Learning a multitude of skills in tech will help you narrow down what you want to pursue in the future. At least from this experience, I have learned that web and UX/UI design really is not my cup of tea. While finally being able to create a good-looking interface was satisfying, it is not something I could see myself doing for hours in a day.
-### Reason 2
+### Reason 2: To create a successful project
  While it seems like I absolutely abhor HTML/CSS and UI frameworks, I do understand the importance of having at least a basic understanding and competency of web-development. User interfaces are an integral part of a programming project. No average person would want to use a program that has no interface to interact with. It would be too boring.  Especially for technology, the looks of your product is just as important as the functionality. Your interface will be the first thing that the user will see so you have to at least make it look somewhat attractive. 
-### Reason 3
+### Reason 3: Outlines
 It is not like you have to be a professional at using HTML/CSS and the UI framework of your choice. After all, that is what UX/UI designers are for. At least with UI frameworks, it reduces the amount of frustration associated with just using HTML and CSS. Having at least a basic outline of what you would want your interface to look like would be extremely beneficial. This outline could help future designers accurately create a website according to your vision.
 
 As with anything that is new to you, there will be this initial state of discomfort and frustration. Learning HTML/CSS may seem like a constant uphill battle but the journey gets easier. With UI frameworks like bootstrap, it lessens your load and helps you fight your way through the top. Once you build your experience with bootstrap, understanding what the classes do becomes much easier. As you accustom yourself to the framework, you may realize that the time and effort put into learning this new content was worth it.
