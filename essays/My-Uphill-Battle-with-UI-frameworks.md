@@ -20,7 +20,7 @@ I would say this is one of the better interfaces that I developed but it took me
 ## Is Learning a UI Framework even worth it?
 ### Bootstrap5
 If it wasn’t bad enough, using a framework requires even more remembering of content. I just recently started learning about and implementing Bootstrap in my website development projects. Seriously, it is like trying to learn a foreign language. There were pages full of documentation, with words that made no sense to me. Everything that I was reading seemed like gibberish to me. Even after applying all of the classes from bootstrap, it still wasn’t doing what I wanted it to do. From my experience, it's obvious that I had and still have no idea what all of the classes do and how they function.
-###The benefits of Bootstrap5
+### The benefits of Bootstrap5
 The only thing that I like about Bootstrap is that it makes using HTML/CSS easier. The Bootstrap classes basically do the majority of the job for you. This is in comparison to using HTML/CSS where you have to write a ton of code just to get the same effect. Actually knowing what the bootstrap classes do is a struggle but once you get the hang of it, the process is much easier. I am not at this point in using UI frameworks yet, however, I understand that much just from my experience using bootstrap. For example,
 
 You can get so much more done and not to mention, it looks a lot better as compared to the previous interface. I was able to overlay the text on the images with relative ease. Seriously, the padding that comes with bootstrap containers as well as the gridlayout saves you so much time. Using a UI framework just feels so much more efficient as compared to the blood sweat and tears put into creating an interface with just raw HTML/CSS. 
