@@ -10,56 +10,29 @@ labels:
   - HTML/CSS
   - Bootstrap5
 ---
-<img width="450px" 
-     class="rounded mx-auto d-block" 
-     src="../img/Screenshot 2024-02-08 022611.png" >
+## HTML/CSS
+“Bro, why wont this column move down!?” Kind of a weird thing to say on a Sunday afternoon but this was what I was doing all weekend. Would it be weird to think that learning HTML/CSS is more difficult than learning a programming language? Might I say that learning HTML and CSS feels just as difficult as learning a new oral language. This may be an exaggeration, but it genuinely feels like I have started speaking like a computer. This was an odd feeling as I have not experienced this while learning programming languages. 
 
-## Why Coding Standards?
+Recently, I have had my first introduction to HTML/CSS. So far, my experience has been nothing short of awful. My journey has constantly felt like an uphill battle. It is so difficult to make an aesthetically pleasing website just from HTML/CSS. I would spend hours on just the HTML just for my website to look outdated and weird. Then I would spend even more time working on the CSS portion to make my website look presentable only for it to be sub-par. Don’t even get me started on the margins and padding. I wouldn’t say that it is impossible to have a fabulous website using just HTML/CSS but it sure does feel like it. Just look at the website I created using just HTML/CSS below:
 
-### The looks of coding
+I would say this is one of the better interfaces that I developed but it took me three dreadful hours making it. My main struggle was with overlapping the text on the images. I spent two of the three hours on w3schools.com trying to do this with no avail. In the end, I just settled for using a figure and figcaptions. Personally, it looks clean but it was definitely a struggle trying to get to the desired product.
+	
+## Is Learning a UI Framework even worth it?
+### Bootstrap5
+If it wasn’t bad enough, using a framework requires even more remembering of content. I just recently started learning about and implementing Bootstrap in my website development projects. Seriously, it is like trying to learn a foreign language. There were pages full of documentation, with words that made no sense to me. Everything that I was reading seemed like gibberish to me. Even after applying all of the classes from bootstrap, it still wasn’t doing what I wanted it to do. From my experience, it's obvious that I had and still have no idea what all of the classes do and how they function.
+###The benefits of Bootstrap5
+The only thing that I like about Bootstrap is that it makes using HTML/CSS easier. The Bootstrap classes basically do the majority of the job for you. This is in comparison to using HTML/CSS where you have to write a ton of code just to get the same effect. Actually knowing what the bootstrap classes do is a struggle but once you get the hang of it, the process is much easier. I am not at this point in using UI frameworks yet, however, I understand that much just from my experience using bootstrap. For example,
 
-Would you believe me if I said that coding standards saves my life everyday. Well not literally, but it feels like it does. Coding standards serve many purposes. One of which is displayed in the block of code above. In the code above, there is no coding standard being used. Anyone who wears glasses or has the slightest vision impairment would struggle to read this code. Even with my perfect vision, I find this block of code hard to read not only the characters, but also to understand how the function works. The lack of spaces and proper indents makes the code really cluttred and difficult to read. As a result, understanding how the code functions is that much more difficult to understand.
+You can get so much more done and not to mention, it looks a lot better as compared to the previous interface. I was able to overlay the text on the images with relative ease. Seriously, the padding that comes with bootstrap containers as well as the gridlayout saves you so much time. Using a UI framework just feels so much more efficient as compared to the blood sweat and tears put into creating an interface with just raw HTML/CSS. 
 
-<img width="450px" 
-     class="rounded mx-auto d-block" 
-     src="../img/Screenshot 2024-02-08 022128.png" >
+## Should you learn HTML/CSS and UI frameworks?
+	After all of the sleepless nights spent learning HTML/CSS and Bootstrap, I kept thinking to myself, “Why am I even learning this?” However, after a while of thinking and self-reflection, I have come to the conclusion that they are worth learning for a couple of reasons.
+### Reason 1
+As with learning anything, it helps you discover what you are truly passionate about and interested in. Learning a multitude of skills in tech will help you narrow down what you want to pursue in the future. At least from this experience, I have learned that web and UX/UI design really is not my cup of tea. While finally being able to create a good-looking interface was satisfying, it is not something I could see myself doing for hours in a day.
+### Reason 2
+ While it seems like I absolutely abhor HTML/CSS and UI frameworks, I do understand the importance of having at least a basic understanding and competency of web-development. User interfaces are an integral part of a programming project. No average person would want to use a program that has no interface to interact with. It would be too boring.  Especially for technology, the looks of your product is just as important as the functionality. Your interface will be the first thing that the user will see so you have to at least make it look somewhat attractive. 
+### Reason 3
+It is not like you have to be a professional at using HTML/CSS and the UI framework of your choice. After all, that is what UX/UI designers are for. At least with UI frameworks, it reduces the amount of frustration associated with just using HTML and CSS. Having at least a basic outline of what you would want your interface to look like would be extremely beneficial. This outline could help future designers accurately create a website according to your vision.
 
-In contrast, above is the same block of code code with coding standards being implemented. Just from a first glance, it is obvious that the code with the coding standard is much easier to read as compared to the same code without the standards. If I were a teacher grading a coding assignment or an employer, I would much rather want to see the code that is standard compliant.
+As with anything that is new to you, there will be this initial state of discomfort and frustration. Learning HTML/CSS may seem like a constant uphill battle but the journey gets easier. With UI frameworks like bootstrap, it lessens your load and helps you fight your way through the top. Once you build your experience with bootstrap, understanding what the classes do becomes much easier. As you accustom yourself to the framework, you may realize that the time and effort put into learning this new content was worth it.
 
-### Commenting
-
-<img class="img-fluid" src="../img/Single-LineComments.avif">
-
-Coding standards serve for more than just the ‘aesthetics’ of a program. These standards can also aid in helping people understand your code. This can be done through commenting which explains what a block of code does. In my previous classes, my professors would heavily stress on commenting on the code you write. Often, the comments would take just as long as writing the code itself. Commenting seems really cumbersome but its benefits shine when you start to share code. Especially when you are searching for the code for a problem online, commenting will help you actually comprehend how and why the code works.
-
-Take the snippet of code above. On the left, there is commenting on some code. It identifies what the code is doing and explains the properties of the object. For anyone who has had some experience with coding, understanding this code is not difficult. However, for beginners having these comments are really helpful in understanding what the code is doing. If my professors did not properly comment on the example programs they wrote, I probably would have struggled a lot more with the assignments than I already was.
-
-## How coding standards save my life
-
-The actual life-saving comes when you use the coding standards and implement them using a standard checker tool. Recently, I have been using ESLint as a coding standard compliance checker and I am liking it so far. These tools will sometimes send hints that are like blessings from heaven. It happens all too often where hours are spent on a program only for it to not compile.  Anyone who is a computer science major or has worked with coding before can relate when I say that even the smallest mistake or typo will ruin the entire functionality of your program. For instance:
-
-```cpp
-const arr = [];
-
-function projectEulerOne() { 
-  let sum = 0;
-  for (let i = 0; i < 1000; i++) {
-    if (i % 3 == 0 || i % 5 == 0) {
-      arr.push(i);
-    }
-  }
-  for (let j = 0; j < arr.length; j++ ) {
-    sum += arr[j];
-  }
-  return sun;
-}
-console.log(projectEulerOne());
-```
-
-This block of code won’t compile just because of a small typo in the variable ‘sum’. Even for a simple function like this, most struggle to find these small mistakes. Now imagine having to find these same mistakes in thousands of lines of code. It will feel almost impossible to do or take hours out of your day that you could have spent on more important things. Going through a ridiculous amount of code to figure out why my code isn’t working is absolute torture. It is even more dreadful when you realize that it was because of a misspelling. This is where a standard checker comes in handy. It will help in ensuring that you are properly referencing variables and that your syntax is correct. Using a standard checker tool, I am able to save hours of my time that I would have otherwise wasted on trying to find those minute mistakes.
-
-## What I think of Coding Standards
-
-Coding standards are often seen in a very negative, trivial light. Most of this roots from how much of a nuisance and unnecessary that it seems. A lot of people tend to complain about those small details like putting a newline at the end of your code or all of the spaces that you have to put in specific places.I do agree that not all of the aspects of coding standards are life or death for the functionality of your program. However, I do believe that the benefits of those details will come to show as you continue to create longer programs or write more code. The only major problem that I have is with implementing coding standards in a timed situation. Especially for assessments, I worry that I won’t be able to properly correct my code to comply with the coding standards in time.
-
-Although learning and implementing coding standards may be irritating initially, the difficulty dwindles and the extra effort put in really starts to pay off. In the beginning, I didn’t enjoy using coding standards as it took so much time to do. However, now that I have had experience with it and am able to implement the standards much quicker, it has gotten easier. I would say that coding standards actually helps with the accessibility of the code. While I do not exactly enjoy the coding standards, I do understand and appreciate what it does for coding and the coding community.
