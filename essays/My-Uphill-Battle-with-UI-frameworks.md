@@ -35,7 +35,11 @@ To add to my struggle, using a framework requires even more remembering of conte
 ### Raw HTML/CSS vs. Bootstrap5
 One thing that I like about Bootstrap is that it makes using HTML/CSS easier. Above is a perfect image that illustrates what it feels like to create an interface with and without bootstrap. The difference is so drastic. The look and the feel of the interfaces I create elevates. The Bootstrap classes basically do the majority of the job for you. This is in comparison to using HTML/CSS where you have to write a ton of code just to get the same effect. Actually knowing what the bootstrap classes do is a struggle but once you get the hang of it, the process is much easier. I am not at this point in using UI frameworks yet, however, I understand that much just from my experience using bootstrap. For example,
 
-You can get so much more done and not to mention, it looks a lot better as compared to the previous interface. I was able to overlay the text on the images with relative ease. Seriously, the padding that comes with bootstrap containers as well as the gridlayout saves you so much time. Using a UI framework just feels so much more efficient as compared to the blood sweat and tears put into creating an interface with just raw HTML/CSS. 
+<img width="1000px" 
+     class="rounded mx-auto d-block" 
+     src="../img/Screenshot 2024-02-22 205424.png" >
+
+There were a couple of major improvements made with creating this interface using bootstrap. One of these factors was the time spent creating it. In total, only 30 minutes was spent completing the interface. You can get so much more done in a shorter amount of time compared to the previous interface. The second improvement was the issue that I had with the previous interface that only used HTML/CSS. I was able to overlay the text on the images with relative ease. Seriously, the padding that comes with bootstrap containers as well as the gridlayout saves you so much time.  Using a UI framework just feels so much more efficient as compared to the blood sweat and tears put into creating an interface with just raw HTML/CSS. 
 
 ## Are UI frameworks even worth learning?
 After all of the sleepless nights spent learning HTML/CSS and Bootstrap, I kept thinking to myself, “Why am I even learning this?” However, after a while of thinking and self-reflection, I have come to the conclusion that they are worth learning for a couple of reasons.
