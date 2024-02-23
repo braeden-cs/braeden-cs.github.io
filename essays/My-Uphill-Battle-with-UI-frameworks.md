@@ -26,7 +26,7 @@ The only thing that I like about Bootstrap is that it makes using HTML/CSS easie
 You can get so much more done and not to mention, it looks a lot better as compared to the previous interface. I was able to overlay the text on the images with relative ease. Seriously, the padding that comes with bootstrap containers as well as the gridlayout saves you so much time. Using a UI framework just feels so much more efficient as compared to the blood sweat and tears put into creating an interface with just raw HTML/CSS. 
 
 ## Should you learn HTML/CSS and UI frameworks?
-	After all of the sleepless nights spent learning HTML/CSS and Bootstrap, I kept thinking to myself, “Why am I even learning this?” However, after a while of thinking and self-reflection, I have come to the conclusion that they are worth learning for a couple of reasons.
+After all of the sleepless nights spent learning HTML/CSS and Bootstrap, I kept thinking to myself, “Why am I even learning this?” However, after a while of thinking and self-reflection, I have come to the conclusion that they are worth learning for a couple of reasons.
 ### Reason 1
 As with learning anything, it helps you discover what you are truly passionate about and interested in. Learning a multitude of skills in tech will help you narrow down what you want to pursue in the future. At least from this experience, I have learned that web and UX/UI design really is not my cup of tea. While finally being able to create a good-looking interface was satisfying, it is not something I could see myself doing for hours in a day.
 ### Reason 2
