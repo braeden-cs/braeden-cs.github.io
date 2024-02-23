@@ -19,7 +19,7 @@ labels:
 
 Recently, I have had my first introduction to HTML/CSS. So far, my experience has been nothing short of awful. My journey has constantly felt like an uphill battle. It is so difficult to make an aesthetically pleasing website just from HTML/CSS. I would spend hours on just the HTML just for my website to look outdated and weird. Then I would spend even more time working on the CSS portion to make my website look presentable only for it to be sub-par. Don’t even get me started on the margins and padding. I wouldn’t say that it is impossible to have a fabulous website using just HTML/CSS but it sure does feel like it. Just look at the website I created using just HTML/CSS below:
 
-<img width="400px" 
+<img width="1000px" 
      class="rounded mx-auto d-block" 
      src="../img/Screenshot 2024-02-22 195234.png" >
 
