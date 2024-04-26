@@ -18,8 +18,35 @@ labels:
 While I have never tried to make a granny square as of yet, I do understand that the degree of complexity drastically increases as you attempt more intricate patterns.
 # Implementation of Design Patterns
   Just as I follow crochet patterns to create various plushies, I also use design patterns throughout my code. A common design pattern that I have been using, at least as of recently, is the observer pattern. Specifically, I have been implementing this design pattern through publications and subscriptions. For instance, a block of code that illustrates this design pattern is:
-
+  
+'''cpp
+ const { _id } = useParams();
+  // console.log('EditProfile', _id);
+  // useTracker connects Meteor data to React components. https://guide.meteor.com/react.html#using-withTracker
+  const { doc, ready } = useTracker(() => {
+    // Get access to Profile documents.
+    const subscription = Meteor.subscribe(Students.userPublicationName);
+    // Determine if the subscription is ready
+    const rdy = subscription.ready();
+    // Get the document
+    const document = Students.collection.findOne(_id);
+    return {
+      doc: document,
+      ready: rdy,
+    };
+  }, [_id]);
+  // console.log('EditProfile', doc, ready);
+  // On successful submit, insert the data.
+  const submit = (data) => {
+    const { name, owner, level, grasshopper, sensei } = data;
+    Students.collection.update(_id, { $set: { name, owner, level, grasshopper, sensei } }, (error) => (error ?
+      swal('Error', error.message, 'error') :
+      swal('Success', 'Item updated successfully', 'success')));
+  };
+  '''
+  
   In this code, I publish and subscribe to the Students collection. The user will only be able to view the documents in the collection that belong to them. In this way, I am able to allow the user to access the profile information that they entered when they registered with the program.
+  Another design pattern that I have been using in my code often is the Singleton pattern. Prior to creating the block of code, I first created a Student Collection. This collection would take in the name of the user, their email, grade level, and other academic information. I would then create a single instance of this Collection that I would insert documents into.
 
 # Design Patterns
   Much like crochet patterns and stitches, there are various defined design patterns that will ultimately influence the architectural structure of your code. Design patterns are the stitches of crochet that guide those who implement them to create structured solutions. Rather than actual code, design patterns provide structures that give approaches to solving a problem. Developers implementing design patterns streamline the coding process. These design patterns promote reusability and maintainability of code. As a result, other developers can actually understand the structure and functionality of the code that you create.
