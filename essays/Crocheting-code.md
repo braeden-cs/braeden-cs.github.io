@@ -12,12 +12,18 @@ labels:
   Outside of coding, I have been trying to explore new extracurriculars. As of recently, a hobby that I have been indulging myself in is learning to crochet. I have slowly begun to learn quite a few stitches that have allowed me to create intricate patterns in my crafts. In terms of coding, there is something similar to the variety of ‘stitches’: design patterns. Design patterns are generally defined structures and trends that describe common solutions to problems found within code. Much like how each plush or craft has a unique sequence and series of stitches, these design patterns serve as a blueprint or template. Using these design patterns can guide developers on how to approach certain problems. From my experience with coding and crocheting, I have found parallels within their designs. Just as crocheting has multiple stitches, coding may also have various design patterns.
   
 ## Single Crochet Stitch and Singleton
-<img width="400px" src="../img/single-crochet.jpg" class="text-center">
+<img  width="400px" 
+      src="../img/single-crochet.jpg" 
+      class="rounded mx-auto d-block" >
+      
   The very first stitch that I learned was a single crochet stitch which served as my building block for my very first crochet project. Learning and implementing this stitch in my project was extremely simple; I was still able to create something purely off of single stitches.
  A design pattern that shares attributes with this stitch is the Singleton pattern. This pattern is known to be relatively easy to implement. In this pattern, only one instance of an object exists, granting the user global access. However, granting global access is not always the wisest thing to do, especially in cases where global access is not required. Both the Singleton and the single stitch serve as a foundation for more complex and intricate patterns. In this way, the Singleton pattern is similar to the single crochet stitch.
 
 ## Granny Squares
-<img width="400px" src="../img/granny-square.jpg" class="text-center">
+<img  width="400px" 
+      src="../img/granny-square.jpg" 
+      class="rounded mx-auto d-block" >
+  
   Just like a granny square, a complete and functional program is often made from a culmination of various design patterns. By combining a multitude of stitches, crocheters are able to create very complicated patterns in a square motif. In a program, many design patterns can be used to address certain issues, therefore, giving a structured way to create a solution.
 While I have never tried to make a granny square as of yet, I do understand that the degree of complexity drastically increases as you attempt more intricate patterns.
 # Implementation of Design Patterns
