@@ -15,19 +15,22 @@ labels:
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
-      <p>For the various experience WODs, I have not used AI to aid my learning. I have not felt the need to use it as these assignments often came with a tutorial at the end that would explain the concepts and the process of solving problem. In addition, the experience WODs were not so challenging that it would prompt me to use ChatGPT or any other AI to help me complete the assignment.</p>
+     <p>For the various experience WODs, I have not used AI to aid my learning. I have not felt the need to use it as these assignments often came with a tutorial at the end that would explain the concepts and the process of solving problem. In addition, the experience WODs were not so challenging that it would prompt me to use ChatGPT or any other AI to help me complete the assignment.</p>
   2. In-class Practice WODs
-      <p>From my perspective, the In-class Practice WODs were specifically made to gauge how well I understood the concepts and practices that I learned during the week. In this way, I would be able to know what I have to work on or practice more. For that reason, I chose not to use ChatGPT during those times as they were very low-stakes because these assignments were not for a grade.</p> 
+     <p>From my perspective, the In-class Practice WODs were specifically made to gauge how well I understood the concepts and practices that I learned during the week. In this way, I would be able to know what I have to work on or practice more. For that reason, I chose not to use ChatGPT during those times as they were very low-stakes because these assignments were not for a grade.</p> 
   3. In-class WODs
-      <p>I have used ChatGPT in a couple of instances during select In-class WODs. I used ChatGPT as my last resort option to help me solve the WODs. I would first try the WOD by myself first. Only when I found that my code was not functioning properly or I had no clue on what I was doing would I rely on ChatGPT. However, my experience with using AI during WODs is not the best. Usually, the answers that I would get from the bot would not function as intended. For the cases where ChatGPT was actually able to provide me a correct block of code that function as explained by the prompt would be for the simpler concepts.</p>
+     <p>I have used ChatGPT in a couple of instances during select In-class WODs. I used ChatGPT as my last resort option to help me solve the WODs. I would first try the WOD by myself first. Only when I found that my code was not functioning properly or I had no clue on what I was doing would I rely on ChatGPT. However, my experience with using AI during WODs is not the best. Usually, the answers that I would get from the bot would not function as intended. For the cases where ChatGPT was actually able to provide me a correct block of code that function as explained by the prompt would be for the simpler concepts.</p>
   4. Essays
-      <p>I specifically try to avoid using any AI to write my essays in this class. My reasoning behind this is because of my fear that I will repremanded for any type of plagiarism or AI usage. Although I do know that AI usage is permitted in this class, I still try to avoid that situation altogether. I also don't use AI to write my essays because the writing style and vocabulary that ChatGPT uses often does not match my own. As perpetually warned in the essay prompts of this class, using AI to write your essay often leads to a lack of your own voice being conveyed in your writing.</p>
+     <p>I specifically try to avoid using any AI to write my essays in this class. My reasoning behind this is because of my fear that I will repremanded for any type of plagiarism or AI usage. Although I do know that AI usage is permitted in this class, I still try to avoid that situation altogether. I also don't use AI to write my essays because the writing style and vocabulary that ChatGPT uses often does not match my own. As perpetually warned in the essay prompts of this class, using AI to write your essay often leads to a lack of your own voice being conveyed in your writing.</p>
   5. Final project
-      <p>For my final project, I have used ChatGPT as a way to accelerate the process and help me learn how to implement certain concepts within my code. For instance, I used ChatGPT to come up with my group name, BrainBows. I really struggle coming up with creative and fun names. I also thought that this should be a task that my group and I should not be worrying about that much. As a result, I used ChatGPT to come up with a Study Buddy app group name that incorporated common themes and motifs correlated to UH Manoa. I also used ChatGPT once to help me debug one of my lines of code within my project. The issue that I encountered involved the React onClick event.</p>
+     <p>For my final project, I have used ChatGPT as a way to accelerate the process and help me learn how to implement certain concepts within my code. For instance, I used ChatGPT to come up with my group name, BrainBows. I really struggle coming up with creative and fun names. I also thought that this should be a task that my group and I should not be worrying about that much. As a result, I used ChatGPT to come up with a Study Buddy app group name that incorporated common themes and motifs correlated to UH Manoa. I also used ChatGPT once to help me debug one of my lines of code within my project. The issue that I encountered involved the React onClick event.</p>
+     
      ``` cpp
       <Button className="fluid" variant="outline-danger" size="lg" onClick={removeNotif(urgentNotif._id)}>
      ```
-      <p>I was being thrown the error that the onClick listener is expecting a function but instead, it is receiving a 'number' type. With this issue I prompted ChatGPT to debug the code, providing the bot with the removeNotif function, the block of code, as well as the error that was being thrown. ChatGPT was able to provide me with an answer that actually functioned the way I wanted it to.</p>
+     
+     <p>I was being thrown the error that the onClick listener is expecting a function but instead, it is receiving a 'number' type. With this issue I prompted ChatGPT to debug the code, providing the bot with the removeNotif function, the block of code, as well as the error that was being thrown. ChatGPT was able to provide me with an answer that actually functioned the way I wanted it to.</p>
+        
      ``` cpp
       <Button
         className="fluid"
@@ -38,7 +41,8 @@ I have used AI in class this semester in the following areas:
       Remove Notification
       </Button>
      ```
-       <p>As you can see, the solution was using an arrow function. Although the change may have been minute, it saved me a lot of time and frustration invovled with this issue.</p>
+        
+     <p>As you can see, the solution was using an arrow function. Although the change may have been minute, it saved me a lot of time and frustration invovled with this issue.</p>
   7. Learning a concept / tutorial
       <p>Throughout the course of the semester, I have not felt the need to use ChatGPT to learn a concept or provide me with a tutorial of how to use the concepts. The screen casts provided at the end of the experience WODs or in the modules were enough for me to understand how to implement the topics discussed. My main usage of AI was to debug any of my code.</p>
   8. Answering a question in class or in Discord
@@ -60,7 +64,7 @@ I have used AI in class this semester in the following areas:
 
 
 ### III. Impact on Learning and Understanding:
-<p>Overall, I would not say that AI has made a detrimental or profound impact on my learning and understanding in this class. Especially because this course is a foundational class within my major, I have 
+  <p>Overall, I would not say that AI has made a detrimental or profound impact on my learning and understanding in this class. Especially because this course is a foundational class within my major, I have 
 The biggest differntiation that I made during my experience of using AI is that it should be the HELP, not the SOLUTION. Once I was able to understand this difference, I used AI to supplement my learning rather than it becoming the foundation of my knowledge.</p>
 
 ### IV. Practical Applications:
