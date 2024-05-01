@@ -1,0 +1,78 @@
+---
+layout: essay
+type: essay
+title: "AI: A Friend or Foe?"
+# All dates must be YYYY-MM-DD format!
+date: 2024-04-30
+published: true
+labels:
+  - AI
+---
+### I. Introduction
+
+
+### II. Personal Experience with AI:
+I have used AI in class this semester in the following areas:
+
+  1. Experience WODs e.g. E18
+      For the various experience WODs, I have not used AI to aid my learning. I have not felt the need to use it as these assignments often came with a tutorial at the end that would explain the concepts and the process of solving problem. In addition, the experience WODs were not so challenging that it would prompt me to use ChatGPT or any other AI to help me complete the assignment.
+  2. In-class Practice WODs
+      From my perspective, the In-class Practice WODs were specifically made to gauge how well I understood the concepts and practices that I learned during the week. In this way, I would be able to know what I have to work on or practice more. For that reason, I chose not to use ChatGPT during those times as they were very low-stakes because these assignments were not for a grade. 
+  3. In-class WODs
+      I have used ChatGPT in a couple of instances during select In-class WODs. I used ChatGPT as my last resort option to help me solve the WODs. I would first try the WOD by myself first. Only when I found that my code was not functioning properly or I had no clue on what I was doing would I rely on ChatGPT. However, my experience with using AI during WODs is not the best. Usually, the answers that I would get from the bot would not function as intended. For the cases where ChatGPT was actually able to provide me a correct block of code that function as explained by the prompt would be for the simpler concepts.
+  4. Essays
+      I specifically try to avoid using any AI to write my essays in this class. My reasoning behind this is because of my fear that I will repremanded for any type of plagiarism or AI usage. Although I do know that AI usage is permitted in this class, I still try to avoid that situation altogether. I also don't use AI to write my essays because the writing style and vocabulary that ChatGPT uses often does not match my own. As perpetually warned in the essay prompts of this class, using AI to write your essay often leads to a lack of your own voice being conveyed in your writing.
+  5. Final project
+      For my final project, I have used ChatGPT as a way to accelerate the process and help me learn how to implement certain concepts within my code. For instance, I used ChatGPT to come up with my group name, BrainBows. I really struggle coming up with creative and fun names. I also thought that this should be a task that my group and I should not be worrying about that much. As a result, I used ChatGPT to come up with a Study Buddy app group name that incorporated common themes and motifs correlated to UH Manoa. I also used ChatGPT once to help me debug one of my lines of code within my project. The issue that I encountered involved the React onClick event.
+     ``` cpp
+      <Button className="fluid" variant="outline-danger" size="lg" onClick={removeNotif(urgentNotif._id)}>
+     ```
+       I was being thrown the error that the onClick listener is expecting a function but instead, it is receiving a 'number' type. With this issue I prompted ChatGPT to debug the code, providing the bot with the removeNotif function, the block of code, as well as the error that was being thrown. ChatGPT was able to provide me with an answer that actually functioned the way I wanted it to.
+     ``` cpp
+      <Button
+        className="fluid"
+        variant="outline-danger"
+        size="lg"
+        onClick={() => removeNotif(urgentNotif._id)}
+      >
+      Remove Notification
+      </Button>
+     ```
+       As you can see, the solution was using an arrow function. Although the change may have been minute, it saved me a lot of time and frustration invovled with this issue.
+  7. Learning a concept / tutorial
+      Throughout the course of the semester, I have not felt the need to use ChatGPT to learn a concept or provide me with a tutorial of how to use the concepts. The screen casts provided at the end of the experience WODs or in the modules were enough for me to understand how to implement the topics discussed. My main usage of AI was to debug any of my code.
+  8. Answering a question in class or in Discord
+      Instead of using AI as a way to answer any of the questions that I possibly encountered in discord or in class, I would just search it up online instead. I find that in forums, specifically used to share common questions or issues within the coding community like StackOverflow, provided me with usable information to solve my problems.
+  9. Asking or answering a smart-question
+      I did not ask or answer any smart-question in the #smart-question discord chat so I have no relevant use of AI in this area.
+  10. Coding example e.g. “give an example of using Underscore .pluck”
+      
+  11. Explaining code
+      For me, I place a major importance on actually understanding what is happening within a block of code and how it functions. Unintentionally, I dedicate time to actually read through the documentation of the code as well as try to play with code so that I have an overall knowledge of how the block of code works. Within the scope of this class, the code provided was not that difficult to interpret. However, as we started to implement Meteor and MongoDB which encompassed bigger files and longer lines of code, I found myself dedicating more time to actually try the code for myself. As a result, I have never used AI to explain how a code functions in this class.
+  12. Writing code
+      I have definitely used AI to help me write code. However, more often than not, I would find that the code that ChatGPT comes up with does not function the way that I want it to. I am unsure whether the issue was with the wording of my prompts or if I simply just did not include enough information for the bot to correctly create a functioning code. Although, with the blocks of code that it did come up, it gave me somewhat of a guide of how I could approach this and the concepts I could use.
+  13. Documenting code
+      In this class, I have not had an issue with documenting code. For most of the class, the code that we used would often already be documented. With altering the code, my task would simply be to change a few words within comments. As a result, I have not used any AI to help me document  
+  14. Quality assurance 
+
+  15. Other uses in ICS 314 not listed above
+
+
+
+### III. Impact on Learning and Understanding:
+Overall, I would not say that AI has made a detrimental or profound impact on my learning and understanding in this class. Especially because this course is a foundational class within my major, I have 
+The biggest differntiation that I made during my experience of using AI is that it should be the HELP, not the SOLUTION. Once I was able to understand this difference, I used AI to supplement my learning rather than it becoming the foundation of my knowledge.
+
+### IV. Practical Applications:
+
+
+### V. Challenges and Opportunities:
+
+
+### VI. Comparative Analysis:
+
+
+### VII. Future Considerations:
+
+
+### VIII. Conclusion:
