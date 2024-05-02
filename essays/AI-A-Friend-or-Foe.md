@@ -9,7 +9,7 @@ labels:
   - AI
 ---
 ### I. Introduction
-
+  <p>At the height of COVID-19, came the introduction of ChatGPT, an AI chatbot that answers prompts. Since then, the world has considerably shifted by incorporating AI into various aspects of society. Although AI has existed prior to this, it has continued to reach new peaks and has become more commonly used among the public. One of the major aspects that AI has been used for is education. Especially during distance learning, there was an increaed worry that students would use AI to complete their assignments, thereby, not learning anything. At least for me, nowadays I have used AI, specifically ChatGPT, to help supplement my learning. In ICS 314, I use ChatGPT in a couple of ways. For instace, I have used ChatGPT to help create code given a certain prompt and functionality.  </p>
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
