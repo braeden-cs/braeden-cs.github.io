@@ -9,7 +9,7 @@ labels:
   - AI
 ---
 ### I. Introduction
-  <p>At the height of COVID-19, came the introduction of ChatGPT, an AI chatbot that answers prompts. Since then, the world has considerably shifted by incorporating AI into various aspects of society. Although AI has existed prior to this, it has continued to reach new peaks and has become more commonly used among the public. One of the major aspects that AI has been used for is education. Especially during distance learning, there was an increaed worry that students would use AI to complete their assignments, thereby, not learning anything. At least for me, nowadays I have used AI, specifically ChatGPT, to help supplement my learning. In ICS 314, I use ChatGPT in a couple of ways. For instace, I have used ChatGPT to help create code given a certain prompt and functionality.  </p>
+  <p>At the height of COVID-19, came the introduction of ChatGPT, an AI chatbot that answers prompts. Since then, the world has considerably shifted by incorporating AI into various aspects of society. Although AI has existed prior to this, it has continued to reach new peaks and has become more commonly used among the public. One of the major aspects that AI has been used for is education. Especially during distance learning, there was an increased worry that students would use AI to complete their assignments, thereby, not learning anything. At least for me, nowadays I have used AI, specifically ChatGPT, to help supplement my learning. In ICS 314, I use ChatGPT in a couple of ways. For instace, I have used ChatGPT to help create code given a certain prompt and functionality.  </p>
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -90,19 +90,21 @@ I have used AI in class this semester in the following areas:
 
 
 ### III. Impact on Learning and Understanding:
-  <p>Overall, I would not say that AI has made a detrimental or profound impact on my learning and understanding in this class. Especially because this course is a foundational class within my major, I have found myself trying to stray away from relying on ChatGPT. In the beginning, I completely avoided using ChatGPT in any class. The main issue that I saw with using AI is that it would negatively impact essential aspects and skills that I am trying to develop. 
-The biggest differntiation that I made during my experience of using AI is that it should be the HELP, not the SOLUTION. Once I was able to understand this difference, I used AI to supplement my learning rather than it becoming the foundation of my knowledge.</p>
+  <p>Overall, I would not say that AI has made a detrimental or profound impact on my learning and understanding in this class. Especially because this course is a foundational class within my major, I have found myself trying to stray away from relying on ChatGPT. In the beginning, I completely avoided using ChatGPT in any class. The main issue that I saw with using AI is that it would negatively impact essential aspects and skills that I am trying to develop. However, I slowly began to use ChatGPT in a way where I am not over-reliant on AI. The biggest differntiation that I made during my experience of using AI is that it should be the HELP, not the SOLUTION. Once I was able to understand this difference, I used AI to supplement my learning rather than it becoming the foundation of my knowledge. Even with my periodic use of AI, I believe that I was still able to learn and develop the skills and concepts foundational for software engineering.</p>
 
 ### IV. Practical Applications:
-
+  <p>From my perspective, the most practial appliation of AI in software engineering would have to be its debugging capabilities.</p>
+  <p>The future of AI with respect to software engineering is quite murky. A lot of companies are putting precedence and priority over developing and incorporating AI into their products. The biggest sentiment that has been spreading around in the software engineering and tech industry is that AI will be taking a lot of peoples jobs. </p>
 
 ### V. Challenges and Opportunities:
-
+  <p>The biggest challenge that comes with using AI happens to be one of its main functionalities. As I discussed in the prior sections, using AI does not mean you will get a definitive or correct answer. Instead, a lot of the time, especially for writing code, I end up getting garbage code that either does not satisfy the prompt given or is horribly written and difficult to understand. As a result, I have not really relied on ChatGPT to create an entire program</p>
+  <p>Another issue that I have come across when using AI, especially for ChatGPT, is that it can sometimes be difficult to craft an effective prompt that will garner an optimized solution. As the files got bigger, the prompts became even more difficult to create as I was not going to provide ChatGPT with thousands of lines of code just to give it the proper context to solve problem. In all honesty, creating good prompts for ChatGPT could be taught as a class in itself.</p>
+  <p>Despite all of these challenges, I do see the appeal and opportunities found in AI. I believe that software engineering and AI could work hand in hand together to educate the new generation of software engineers. I say this because, from my experience, using ChatGPT in some cases has made writing code more efficient. Specifically, I found that ChatGPT really helped with debugging code. I already had the knowledge of how to implement the code so that my program will function properly. However, I would sometimes have small details that I neglected. Using ChatGPT, I would be able to find those bugs within my code with relative ease.</p>
 
 ### VI. Comparative Analysis:
 
 
 ### VII. Future Considerations:
-
+  
 
 ### VIII. Conclusion:
