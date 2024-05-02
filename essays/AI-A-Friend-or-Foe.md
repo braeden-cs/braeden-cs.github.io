@@ -8,7 +8,7 @@ published: true
 labels:
   - AI
 ---
-<img  width="400px" 
+<img  width="600px" 
       src="../img/AI.jpg" 
       class="rounded mx-auto d-block" >
 ### I. Introduction
@@ -96,6 +96,9 @@ I have used AI in class this semester in the following areas:
   <p>Overall, I would not say that AI has made a detrimental or profound impact on my learning and understanding in this class. Especially because this course is a foundational class within my major, I have found myself trying to stray away from relying on ChatGPT. In the beginning, I completely avoided using ChatGPT in any class. The main issue that I saw with using AI is that it would negatively impact essential aspects and skills that I am trying to develop. However, I slowly began to use ChatGPT in a way where I am not over-reliant on AI. The biggest differentiation that I made during my experience of using AI is that it should be the HELP, not the SOLUTION. Once I was able to understand this difference, I used AI to supplement my learning rather than becoming the foundation of my knowledge. Even with my periodic use of AI, I believe that I was still able to learn and develop the skills and concepts foundational for software engineering.</p>
 
 ### IV. Practical Applications:
+<img width="400px" 
+     class="rounded float-start pe-4" 
+     src="../img/AI-IRL.png" >
   <p>From my perspective, the most practical appliation of AI in software engineering would have to be its debugging capabilities. Outside of just ICS 314, AI is being applied to increase efficiency. For instance, a lot of places like the airport and hospitals have implemented facial recognition as a way to quickly check in clients. There is also the aspect of text editors that many students use to help make writing easier. </p>
   <p>The future of AI concerning software engineering is quite murky. A lot of companies are putting precedence and priority over developing and incorporating AI into their products. The biggest sentiment that has been spreading around in the software engineering and tech industry is that AI will be taking a lot of people's jobs. There was even a recent breakthrough of AI that can produce entire functioning programs called Devin. Devin AI claims to be an AI software engineer. However, this breakthrough has been shrouded with controversy as its efficacy is still in question. </p>
 
