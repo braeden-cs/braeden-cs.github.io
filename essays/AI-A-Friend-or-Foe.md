@@ -54,21 +54,19 @@ I have used AI in class this semester in the following areas:
   10. Coding example e.g. “give an example of using Underscore .pluck”
       One case where I have used AI, specifically ChatGPT, to create code for me was during an In-Class WOD. The prompt that I gave ChatGPT was just the entire prompt provided from the assignment. As a result, I was provided with this block of code:
 
-    ```cpp
-    
+    ``` cpp
       const _ = require('underscore');
 
       function hasLove(strings) {
         return _.some(strings, str => str.includes('love'));
       }
-
       // Example usage:
       const helloLoveLyrics = ["hello", "world", "I love you"];
       console.log(hasLove(helloLoveLyrics));                     // prints true
       console.log(hasLove(helloLoveLyrics.slice(0, 4)));         // prints false
-
+      
     ```
-    I do not remember whether I ended up completing this WOD in time, however, it did give me a starting point on which underscore function I should uswe. Given that there are so much underscore functions found in the documentation along with how ambiguous its implementations can be, I think using ChatGPT was beneficial, even if the code may not have worked properly.
+  <p>I do not remember whether I ended up completing this WOD in time, however, it did give me a starting point on which underscore function I should uswe. Given that there are so much underscore functions found in the documentation along with how ambiguous its implementations can be, I think using ChatGPT was beneficial, even if the code may not have worked properly.</p>
   12. Explaining code
       <p>For me, I place a major importance on actually understanding what is happening within a block of code and how it functions. Unintentionally, I dedicate time to actually read through the documentation of the code as well as try to play with code so that I have an overall knowledge of how the block of code works. Within the scope of this class, the code provided was not that difficult to interpret. However, as we started to implement Meteor and MongoDB which encompassed bigger files and longer lines of code, I found myself dedicating more time to actually try the code for myself. As a result, I have never used AI to explain how a code functions in this class.</p>
   13. Writing code
@@ -81,8 +79,8 @@ I have used AI in class this semester in the following areas:
       }
        ```
 
-      <p> Using !important to override a css style was something that I learned about in the beginning of the semester. It completely crossed over my mind that I could use that to solve my problem. In this case, ChatGPT was actually able to help me remember about past topics I learned and forgot about.</p>
-      <p> However, most of the time, ChatGPT is not the best at writing code. For instance, in one assignment, I prompted ChatGPT to "produce code that will center this text on an image using bootstrap. (code)". ChatGPT provided me with long and difficult to understand code that did not even work.</p>
+  <p> Using !important to override a css style was something that I learned about in the beginning of the semester. It completely crossed over my mind that I could use that to solve my problem. In this case, ChatGPT was actually able to help me remember about past topics I learned and forgot about.</p>
+  <p> However, most of the time, ChatGPT is not the best at writing code. For instance, in one assignment, I prompted ChatGPT to "produce code that will center this text on an image using bootstrap. (code)". ChatGPT provided me with long and difficult to understand code that did not even work.</p>
   14. Documenting code
       <p>In this class, I have not had an issue with documenting code. For most of the class, the code that we used would often already be documented. With altering the code, my task would simply be to change a few words within comments. As a result, I have not used any AI to help me document  </p>
   15. Quality assurance 
