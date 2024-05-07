@@ -28,7 +28,9 @@ labels:
   <p>More than just the web-development focused technology stack encompassed within the class, I have learned far more skills towards becoming better in my academic and professional career. From learning how to better manage the projects that I work on and who I am working with, to determining whether my actions are ethical in retrospect, these skills are not only applicable within the scope of software engineering but also within various aspects of my life. </p>
 
 ### Agile Project Management:
+  #### Issue Driven Project Management:
   <p>The most pivotal software engineering concept that I have learned is Agile Project Management. In summary, this approach to taking on a project ensures that </p>
+  #### Well Oiled Machine or Powerhouse? Why Not Both?
   <p>Outside of the scope of software engineering, Agile Project Management is a very smart and practical way of doing projects. One of the aspects of academics that I have grown to hate over my educational career is group projects. The though of working with others is not so scary and can be quite fun, however, in pratice, things can go awry in the blink of an eye. There are so many factors that is incredibly difficult to keep track of by just one person. The lack of reliability and work ethic from my group mates in addition to the absence of communication always leads the project to disaster. This is where agile project management comes into play. From my perspective, agile project management goes against the typical standard of administering projects. Rather than a group being a well-oiled machine, it focuses on each member a powerhouse in their own right so that even if a cog goes missing, the project can still run smoothly. As discussed before, the attributes of agile project management would greatly solve the issues that I have been running into with group projects all too often.</p>
 
 ### To Be a SWE:
