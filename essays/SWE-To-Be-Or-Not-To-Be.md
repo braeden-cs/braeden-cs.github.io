@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 <img  width="500px" 
-      src="../img/AI.jpg" 
+      src="../img/SWE.jpg" 
       class="rounded mx-auto d-block" >
 ## My Journey To Becoming a SWE
   <p>Over the past semester of my computer science degree, I have been taking a software engineering class which has introduced me to various frameworks and languages such as JavaScript, HTML/CSS, Bootstrap, and React. More importantly, I have become mildly aware of some foundational software engineering concepts and practices including:</p>
