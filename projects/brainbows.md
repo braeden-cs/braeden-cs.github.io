@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhlogo.png
+image: img/uhlogo.jpg
 title: "BrainBows"
 date: 2024
 published: true
