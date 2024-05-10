@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/final-landing.png
+image: img/brainbows.png
 title: "BrainBows"
 date: 2021
 published: true
