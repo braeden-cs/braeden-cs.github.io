@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="400px" src="../img/brainbows.png">
+image: img/brainbows.png width="400px"
 title: "BrainBows"
 date: 2021
 published: true
