@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uofh.jpg
+image: img/uofh.png
 title: "BrainBows"
 date: 2021
 published: true
