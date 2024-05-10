@@ -21,6 +21,8 @@ BrainBows is a study buddy app for UH Manoa ICS students that my group mates and
 
 In the project, I was responsible for the main functionalities that is available to the user. I created the landing page which the user will see as soon as they open up BrainBows. The landing page was created using HTML and CSS as well as Bootstrap5 as its framework. It displays the usages of the BrainBows app.
 
+<img width="1000px" class="img-fluid" src="../img/final-edit.png">
+
 I then made a page where users are able to update their profile information. In order to receive this information, I included fields that the user will have to fill out as they are creating an account with BrainBows.
 
 I also created the notification and matching systems that the users will employ to create study sessions. Both the notification and matching systems were created using MongoDB as its database. There are two types of sessions that the students can create. The first session is an urgent study session. With this type of study session, all 'senseis' of the class that the student needs help in will be notified. The other session is a regular study session. Students are able to create a study session with a student of their choice that hopefully matches their current needs. Once the session is created, the sensei will be notified that the student has created a study session with them. The notifications will display the student's information such as their name, the class they need help in, and the topic. The notification will also include the time of when the study session will occur. To clear out their notifications, the users will be able to delete them. 
