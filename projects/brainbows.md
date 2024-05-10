@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/uofh.png
+image: img/uhlogo.png
 title: "BrainBows"
-date: 2021
+date: 2024
 published: true
 labels:
   - JavaScript
