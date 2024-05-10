@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/R.png
+image: img/rock_paper_scissors_logo.jpg
 title: "Jan Ken Po GUI"
 date: 2023
 published: true
