@@ -4,7 +4,7 @@ type: essay
 title: "Coding Standards: The Bane of My Existence or Heaven-Sent?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-07
-published: true
+published: false
 labels:
   - Coding Standards
 ---
