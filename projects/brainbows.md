@@ -15,7 +15,7 @@ labels:
 summary: "A Study Buddy App for UH Manoa ICS students"
 ---
 
-<img width="400px" class="img-fluid" src="../img/final-landing.png">
+<img width="1000px" class="img-fluid" src="../img/final-landing.png">
 
 BrainBows is a study buddy app for UH Manoa ICS students that my group mates and I created using Meteor. The main issue that we found within the ICS department, and in academics in general, is that it can be difficult to find friends to study with. Especially since having a study partner is integral to your academic success and experience, making a study buddy app that makes finding mentors and study buddys much easier would be extremely beneficial for ICS students. Using BrainBows, students can find a study buddy based on their academic needs and the classes that they need help in. Users can also serve as mentors or a study buddy for classes that they have completed or excel in. BrainBows hopes to encourage comaraderie and the quality of life in the UH Manoa ICS department.
 
@@ -30,4 +30,4 @@ Although I was not entirely responsible for it, there are also other features wi
 From this project, I have learned exponentially on how MongoDB works as well as improve my skills of working with JavaScript, HTML/CSS, BootStrap5, and React. Due to how much I was involved with in this project, I had a lot of experience with implementing the backends of our systems using MongoDB. At the start, I had a difficult time using MongoDB as it was my first time using it. However, once I learned how it functions, the rest came quite easy to me. Besides the technological skills that I have developed, the most important lesson I gained is the pivotal experience of working with a group on a major project. The teamwork, communcation, and group development and dynamics are skills that I will continue to improve on.
 
 <p>To view the app: <a href="https://brainbows.today/">BrainBows</a></p>
-<p>To view the GitHub repository: <a href="https://github.com/brainbows/brainbows-source-real">BrainBows Repository</a></p>
+<p>To view the GitHub repository: <a href="https://brainbows.github.io/">BrainBows Repository</a></p>
