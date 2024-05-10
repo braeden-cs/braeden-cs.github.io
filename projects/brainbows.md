@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/R.png
+image: img/final-landing.png
 title: "BrainBows"
 date: 2021
 published: true
@@ -25,9 +25,9 @@ In the project, I was responsible for the main functionalities that is available
 
 I then made a page where users are able to update their profile information. In order to receive this information, I included fields that the user will have to fill out as they are creating an account with BrainBows.
 
-<div class="text-center p-4">
-  <img width="600px" src="../img/final-match.png" class="img-thumbnail" >
-  <img width="600px" src="../img/final-notification.png" class="img-thumbnail" >
+<div class="text-center">
+  <img width="800px" src="../img/final-match.png" class="img-thumbnail" >
+  <img width="800px" src="../img/final-notification.png" class="img-thumbnail" >
 </div>
 
 I also created the notification and matching systems that the users will employ to create study sessions. Both the notification and matching systems were created using MongoDB as its database. There are two types of sessions that the students can create. The first session is an urgent study session. With this type of study session, all 'senseis' of the class that the student needs help in will be notified. The other session is a regular study session. Students are able to create a study session with a student of their choice that hopefully matches their current needs. Once the session is created, the sensei will be notified that the student has created a study session with them. The notifications will display the student's information such as their name, the class they need help in, and the topic. The notification will also include the time of when the study session will occur. To clear out their notifications, the users will be able to delete them. 
