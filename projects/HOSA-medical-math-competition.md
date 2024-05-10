@@ -4,7 +4,7 @@ type: project
 image: img/R.png
 title: "HOSA Medical Math Competition"
 date: 2021
-published: true
+published: false
 labels:
   - HOSA
   - Math
